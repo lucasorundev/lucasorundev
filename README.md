@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/lucasorundev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasorundev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasorundev&layout=compact&langs_count=6&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasorundev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasorundev&layout=compact&langs_count=6&theme=highcontrast"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para minhas redes sociais:
  
 <div> 
  
